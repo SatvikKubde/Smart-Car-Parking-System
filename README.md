@@ -1,4 +1,4 @@
-# 🚗 Smart Car Parking System
+# 🚗 Smart Car Parking System using LinkedList
 
 A smart car parking lot management application built using **C**, focusing on **linked list-based data structures** without the use of arrays. This project simulates real-world parking management by handling vehicle registration, space allocation, membership handling, and payment processing.
 
